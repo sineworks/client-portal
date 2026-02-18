@@ -19,6 +19,13 @@ description: Client Portal
 **<u>What is the project?</u>**  
 The Client Portal provides an interface for Sineworks to interact with its clients. 
 
+Sineworks Client Portal is a web-based application designed to provide an interface between Sineworks and its clients. The portal will allow clients to easily view the development status of ongoing projects and monitoring / metrics for completed products.
+
+**<u>What problem will the project solve?</u>**
+
+Software projects are notorious for going over budget and difficulty in tracking progress. The client portal will provide clients with help customers feel more secure as they go through the Sineworks development process. 
+
+**<u>How do we know this is a real problem and worth solving?</u>**
 **<u>What problem will the project solve?</u>**  
 The Client Portal solves the following problems: 
 1. Provide a central location for Sineworks to interface with its clients
@@ -27,7 +34,24 @@ The Client Portal solves the following problems:
 **<u>How do we know this is a real problem and worth solving?</u>**  
 All businesses interface with each other. From my professional experience, this interface tends to be spread out across multiple platforms with no process at all. By developing a client portal, Sineworks can control how information is received from its clients. It can centralize the interface with its clients to ensure that clients are able to easily see all planning documents and code for their projects. This ensures that the feedback Sineworks will recieve from its clients is based on current and accurate information regarding the project. 
 
+The client portal will make Sineworks looks more professional and trustworthy. By providing clients clear access to the state of their projects/products, Sineworks makes customers feel more secure. If we want clients to invest their money in us, trust is requirement.
+
 **<u>Are there products that already solve this problem?</u>**
+
+- Atlassian Statuspage
+    - Incident/event communication
+    - Status of product components
+    - Inform clients of scheduled maintenance
+    - Embed status into the app
+
+- Uptime
+- Pulsetic
+
+**<u>Why hasn’t this product already been developed?</u>**
+
+It has been developed
+
+**<u>Is there new technology that makes this the right moment to bring a product to market?</u>**
 The Client Portal needs to remain flexible to change with Sineworks, so Sineworks needs a custom client portal. By using another tool, Sineworks would restrict its capabilities to whatever the tool provides. 
 
 **<u>List potential useful technologies:</u>**
