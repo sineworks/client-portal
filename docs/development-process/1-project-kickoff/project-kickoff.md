@@ -9,7 +9,7 @@ description: Client Portal
 
 **Version:** 0.0.0 (Unapproved)  
 **Prepared by:** Jackson Boyett <br/>
-**Organization:** Sineworks  
+**Organization:** Sineworks
 **Date Created:** 17 February 2026
 
 ---

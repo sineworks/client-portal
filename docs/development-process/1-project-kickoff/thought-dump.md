@@ -11,3 +11,6 @@ description: PROJECT NAME
 Luke's Thoughts:
 
 Jackson's Thoughts:
+- We need to have meeting notes that are accessible in the client portal
+- When relevant project information comes from email, make a note and put it in the client portal. 
+- Can customize client portals for clients
