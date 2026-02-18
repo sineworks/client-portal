@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # Offical Documentation
 
-<h1> `Client Portal` </h1>
+<h1> Client Portal </h1>
 
 Version: 1.0.0
 
