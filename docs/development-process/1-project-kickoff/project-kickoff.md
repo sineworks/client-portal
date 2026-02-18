@@ -1,16 +1,16 @@
 ---
 sidebar_label: Project Kickoff
-description: PROJECT NAME
+description: Client Portal
 ---
 
 # Project Kickoff
 
-<h1> `<Project Name>` </h1>
+<h1>Client Portal </h1>
 
 **Version:** 0.0.0 (Unapproved)  
-**Prepared by:** `<Name>` <br/>
+**Prepared by:** Luke Boyett <br/>
 **Organization:** Sineworks  
-**Date Created:** `<Date>`
+**Date Created:** 29 January 2026
 
 ---
 
@@ -18,13 +18,30 @@ description: PROJECT NAME
 
 **<u>What is the project?</u>**
 
+Sineworks Client Portal is a web-based application designed to provide an interface between Sineworks and its clients. The portal will allow clients to easily view the development status of ongoing projects and monitoring / metrics for completed products.
+
 **<u>What problem will the project solve?</u>**
+
+Software projects are notorious for going over budget and difficulty in tracking progress. The client portal will provide clients with help customers feel more secure as they go through the Sineworks development process. 
 
 **<u>How do we know this is a real problem and worth solving?</u>**
 
+The client portal will make Sineworks looks more professional and trustworthy. By providing clients clear access to the state of their projects/products, Sineworks makes customers feel more secure. If we want clients to invest their money in us, trust is requirement.
+
 **<u>Are there products that already solve this problem?</u>**
 
+- Atlassian Statuspage
+    - Incident/event communication
+    - Status of product components
+    - Inform clients of scheduled maintenance
+    - Embed status into the app
+
+- Uptime
+- Pulsetic
+
 **<u>Why hasn’t this product already been developed?</u>**
+
+It has been developed
 
 **<u>Is there new technology that makes this the right moment to bring a product to market?</u>**
 
